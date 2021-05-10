@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="none" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1006,7 +1006,7 @@
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1470,8 +1470,10 @@
         <slidelink slideid="_player.5ZsNs2ADHhx" displaytext="Quiz_3" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5ZsNs2ADHhx.63iY5H67isV" displaytext="How many users have ordered a sandwich?" expand="false" type="slide" />
-            <slidelink slideid="_player.5ZsNs2ADHhx.6NsT0gfP9XQ" displaytext="How many times has app open, rate sandwich, OR set preferences occurred?" expand="false" type="slide" />
-            <slidelink slideid="_player.5ZsNs2ADHhx.65qGfOyFo3U" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5ZsNs2ADHhx.5e7lkvOVEmp" displaytext="How many times has app open, rate sandwich, OR set preferences occurred" expand="false" type="slide" />
+            <slidelink slideid="_player.5ZsNs2ADHhx.6NsT0gfP9XQ" displaytext="What are all the different app versions on the app open behavior for platform equal to iOS? " expand="false" type="slide" />
+            <slidelink slideid="_player.5ZsNs2ADHhx.6HXDjh3PJKm" displaytext="How many users have ordered a sandwich?" expand="false" type="slide" />
+            <slidelink slideid="_player.5ZsNs2ADHhx.6qIohmMfvEX" displaytext="What are all the different app versions on the app open behavior for platform equal to iOS? " expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
