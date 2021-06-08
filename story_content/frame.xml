@@ -1470,11 +1470,11 @@
       <links>
         <slidelink slideid="_player.5fR86mSn9wu" displaytext="Quiz_4" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5fR86mSn9wu.5w87JpLRMMg" displaytext="What is the most ordered sandwich?" expand="false" type="slide" />
+            <slidelink slideid="_player.5fR86mSn9wu.5w87JpLRMMg" displaytext="How many users have ordered a sandwich?" expand="false" type="slide" />
             <slidelink slideid="_player.5fR86mSn9wu.5mQimZb3XlX" displaytext="How many times has app open, rate sandwich, OR set preferences occurred" expand="false" type="slide" />
             <slidelink slideid="_player.5fR86mSn9wu.6VJ5fonYoK0" displaytext="What are all the different app versions on the app open behavior for platform equal to iOS? " expand="false" type="slide" />
-            <slidelink slideid="_player.5fR86mSn9wu.5gkXqfJ1sAu" displaytext="How many users have ordered a sandwich?" expand="false" type="slide" />
-            <slidelink slideid="_player.5fR86mSn9wu.61Exo1OEHkn" displaytext="What are all the different app versions on the app open behavior for platform equal to iOS? " expand="false" type="slide" />
+            <slidelink slideid="_player.5fR86mSn9wu.5gkXqfJ1sAu" displaytext="What is the distribution of the total number of sandwiches that users have ordered every day?" expand="false" type="slide" />
+            <slidelink slideid="_player.5fR86mSn9wu.61Exo1OEHkn" displaytext="What’s the best way to measure the most loved sandwich among all our users?" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
